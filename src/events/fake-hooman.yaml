@@ -1,0 +1,10 @@
+"http.get./fakehooman":
+  fn: fakehooman
+  body:
+    type: object
+    properties:
+      name:
+        type: string
+  responses:
+    200:
+      application/json:

@@ -1,0 +1,6 @@
+id: fakehooman
+tasks:
+  - id: first_task
+    fn: com.gs.return
+    args:
+      name: 'Amanda!'
